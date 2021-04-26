@@ -40,3 +40,4 @@ Options:
 
 - what's your_token or yuque token?
 - yuque api needs you personal token, you can find at [https://www.yuque.com/settings/tokens](https://www.yuque.com/settings/tokens)
+- 临时方案是直接在 html 模版中添加 head 进行绕过 <meta name="referrer" content="no-referrer" />
